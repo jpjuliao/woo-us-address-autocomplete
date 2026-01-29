@@ -6,6 +6,10 @@ A lightweight WordPress plugin that adds intelligent address autocomplete functi
 
 This plugin enhances the WooCommerce checkout experience by providing real-time address suggestions as customers type their shipping or billing address. It uses the Photon geocoding API to fetch accurate US address data and automatically populates city, state, and zip code fields based on the selected address.
 
+## Demo
+
+![Address Autocomplete Demo](woo-us-address-automcomplete-demo.gif)
+
 ## Features
 
 - **Real-time Address Suggestions**: As users type their address, they receive instant suggestions from a comprehensive US address database
