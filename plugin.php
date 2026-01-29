@@ -3,13 +3,13 @@
 namespace JPJULIAO\Wordpress\WooUSAddressAutocomplete;
 
 /**
- * Plugin name: WooCommerce Address Autocomplete
+ * Plugin name: WooCommerce US Address Autocomplete
  * Description: Address Autocomplete for WooCommerce sites.
- * Version: 1.0.0
+ * Version: 0.0.1
  * Author: Juan Pablo Juliao
  * License: GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain: woo-address-autocomplete
+ * Text Domain: woo-us-address-autocomplete
  * Require plugins: WooCommerce
  */
 
