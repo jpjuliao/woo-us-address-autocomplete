@@ -148,7 +148,7 @@ This plugin is designed for the classic WooCommerce checkout. Compatibility with
 
 ## Changelog
 
-### 1.0.0
+### 0.0.1
 - Initial release
 - Address autocomplete for billing and shipping addresses
 - Integration with Photon geocoding API
